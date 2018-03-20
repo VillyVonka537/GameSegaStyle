@@ -12,10 +12,6 @@
 		//массив переменных обьекты
 		this.bodies = createInvaders(this).concat([new Player(this, gameSize)]);
 
-
-
-
-
 		//получаем данные из сайза через функцию
 	var self = this;
 	//функция обновления игры
