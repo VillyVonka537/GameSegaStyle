@@ -1,3 +1,5 @@
+//ES5
+
 ;(function() {
 	var Game = function(canvasId) {
 		//стандарточка
